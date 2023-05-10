@@ -1,0 +1,23 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/lis2a/zenn-articles",
+  "private": true,
+  "author": {
+    "name": "lis2a",
+    "email": "me@lilis.dev",
+    "url": "https://lilis.dev"
+  },
+  "scripts": {
+    "new:articles": "zenn new:article",
+    "new:book": "zenn new:book",
+    "dev": "zenn preview",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.143"
+  }
+}
