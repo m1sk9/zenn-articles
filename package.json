@@ -4,18 +4,18 @@
   "description": "",
   "main": "index.js",
   "license": "MIT",
-  "repository": "https://github.com/lis2a/zenn-articles",
+  "repository": "https://github.com/m1sk9/zenn-articles",
   "private": true,
   "author": {
-    "name": "lis2a",
+    "name": "m1sk9",
     "email": "me@lilis.dev",
     "url": "https://lilis.dev"
   },
   "scripts": {
     "new:articles": "zenn new:article",
+    "new:articles-slag": "zenn new:article --slug",
     "new:book": "zenn new:book",
-    "dev": "zenn preview",
-    "prepare": "husky install"
+    "dev": "zenn preview"
   },
   "dependencies": {
     "zenn-cli": "^0.1.143"
