@@ -3,6 +3,7 @@ title: "Discord において Bot の同時導入には限界がある...のか�
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["discord", "bot"]
+publication_name: "approvers"
 published: true
 ---
 

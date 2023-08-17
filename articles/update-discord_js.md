@@ -5,6 +5,7 @@ type: "tech"
 topics:
   - "discord"
   - "discordjs"
+publication_name: "approvers"
 published: true
 ---
 
